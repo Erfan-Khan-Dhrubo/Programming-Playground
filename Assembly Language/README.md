@@ -1,6 +1,10 @@
 # 8086 Assembly Language
 
-This repository contains all the concepts, code files, and explanations I’ve learned throughout the **Spring 2025 8086 Assembly course**. Each topic is backed by example `.asm` files and clear written explanations based on the official learning modules.
+This repository contains all the concepts, code files, and explanations I’ve learned throughout the **Spring 2025 8086 Assembly course**.
+Each topic in the repository includes:
+- ✅ A `.asm` file – Complete working code examples (EMU8086-compatible)
+- 📄 A `.md` file – Clear written explanation of the topic, with examples and comments
+- 📁 A dedicated folder named **Assembly Concepts** – Contains **PDF versions** of all `.md` explanation files for easy offline access or printing
 
 ---
 
