@@ -4,7 +4,7 @@ This repository contains Verilog language and their accompanying documentation, 
 Each topic in the repository includes:
 - ✅ A `.asm` file – Complete working code examples (EMU8086-compatible)
 - 📄 A `.md` file – Clear written explanation of the topic, with examples and comments
-- 📁 A dedicated folder named **Assembly Concepts** – Contains **PDF versions** of all `.md` explanation files for easy offline access or printing
+- 📁 A dedicated folder named **Verilog Concepts** – Contains **PDF versions** of all `.md` explanation files for easy offline access or printing
 
 ---
 
