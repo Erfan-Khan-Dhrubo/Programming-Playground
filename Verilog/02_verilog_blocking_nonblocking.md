@@ -137,4 +137,4 @@ endcase
 
 ---
 
-**End of Lab 3 Summary — Verilog Blocking & Non-blocking** 💡⚡
+
