@@ -17,7 +17,7 @@ This repo is organized into folders by language or technology. Each folder conta
 
 ## 📂 Currently Available
 
-### Assembly Language
+###  ✅ Assembly Language
 This folder contains all the concepts I’ve learned in **8086 Assembly Language (Spring 2025)**, organized by topic:
 
 | Topic                       | Contents                                   |
@@ -35,7 +35,7 @@ Each topic includes:
 - `.md` file — explanation with examples
 - PDFs (inside `Assembly Concepts`) — printable summaries
 
-### Verilog HDL
+###  ✅ Verilog HDL
 This folder contains all the concepts I’ve learned in **CSE460: VLSI Design (Spring 2025)**, organized by topic:
 
 | Lab                         | Contents                                           |
