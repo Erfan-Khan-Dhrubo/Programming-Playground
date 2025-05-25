@@ -17,7 +17,7 @@ This repo is organized into folders by language or technology. Each folder conta
 
 ## 📂 Currently Available
 
-### Assembly Language
+###  ✅ Assembly Language
 This folder contains all the concepts I’ve learned in **8086 Assembly Language (Spring 2025)**, organized by topic:
 
 | Topic                       | Contents                                   |
@@ -33,7 +33,22 @@ This folder contains all the concepts I’ve learned in **8086 Assembly Language
 Each topic includes:
 - `.asm` file — working code
 - `.md` file — explanation with examples
-- PDFs (inside `Assembly Concepts/`) — printable summaries
+- PDFs (inside `Assembly Concepts`) — printable summaries
+
+###  ✅ Verilog HDL
+This folder contains all the concepts I’ve learned in **CSE460: VLSI Design (Spring 2025)**, organized by topic:
+
+| Lab                         | Contents                                           |
+|----------------------------|----------------------------------------------------|
+| Intro to Verilog           | Modules, ports, vectors, syntax, logic operators   |
+| Blocking vs Non-Blocking   | `=`, `<=`, procedural blocks, MUX & encoder design |
+| Finite State Machines      | Moore and Mealy FSMs with Verilog implementation   |
+| Vending Machine FSM        | Real-life FSM models for 10Tk/15Tk/20Tk products   |
+
+Each topic includes:
+- `.v` file — Verilog implementation
+- `.md` file — explanation and theory
+- PDFs (inside `Verilog Concepts`) — printable summaries
 
 ---
 
