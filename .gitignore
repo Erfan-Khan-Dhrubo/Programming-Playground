@@ -1,0 +1,48 @@
+# Ignore backup files
+*.bak
+*~ 
+*.tmp
+
+# Ignore simulation files
+*.vcd
+*.wlf
+*.log
+*.lxt*
+*.vvp
+*.out
+
+# Ignore Quartus files
+db/
+incremental_db/
+output_files/
+simulation/modelsim/
+*.sof
+*.pof
+*.jic
+*.rpt
+*.smsg
+*.summary
+
+# Ignore ModelSim/Questa files
+transcript
+vsim.wlf
+work/
+modelsim.ini
+
+# Ignore Vivado files
+*.jou
+*.log
+*.str
+*.cache/
+*.hw/
+*.runs/
+*.sim/
+*.ip_user_files/
+*.xpr
+*.Xil/
+webtalk/
+
+# Ignore generated directories
+__pycache__/
+.vscode/
+.idea/
