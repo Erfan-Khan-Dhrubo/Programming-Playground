@@ -174,4 +174,3 @@ full_adder FA0(sum[0], c1, A[0], B[0], cin);
 
 ---
 
-Happy Hardware Design! 💡⚡
