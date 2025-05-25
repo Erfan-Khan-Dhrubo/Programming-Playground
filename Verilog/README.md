@@ -10,7 +10,7 @@ Each topic in the repository includes:
 
 ## Topics Covered
 
-### ✅ 1: Introduction to Verilog
+### 📄 1: Introduction to Verilog
 **Objective**: Understand the basics of Verilog syntax and circuit modeling.  
 **Topics**:
 - Verilog module structure
@@ -18,14 +18,14 @@ Each topic in the repository includes:
 - Vector declarations and continuous assignments
 - Behavioral vs Structural modeling
 
-### ✅ 2: Blocking vs Non-Blocking Assignments
+### 📄 2: Blocking vs Non-Blocking Assignments
 **Objective**: Differentiate between blocking (`=`) and non-blocking (`<=`) assignments.  
 **Topics**:
 - Procedural blocks (`always @(*)`, `always @(posedge clk)`)
 - Conditional logic with `if-else` and `case`
 - MUX and encoder implementations
 
-### ✅ 3: Finite State Machines (FSMs)
+### 📄 3: Finite State Machines (FSMs)
 **Objective**: Design and simulate Moore and Mealy state machines.  
 **Topics**:
 - Synchronous sequential circuit design
@@ -33,7 +33,7 @@ Each topic in the repository includes:
 - Real-world examples like sequence detectors
 - Verilog FSM implementation
 
-### ✅ 4: Vending Machine (Real-Life FSM Application)
+### 📄 4: Vending Machine (Real-Life FSM Application)
 **Objective**: Model real-life vending machines using FSMs.  
 **Topics**:
 - FSM design for 10 Tk, 15 Tk, and 20 Tk products
