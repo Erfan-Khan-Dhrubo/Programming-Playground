@@ -1,4 +1,3 @@
-
 # 🧠 JavaScript Fundamentals – Part 01
 
 ---
@@ -17,8 +16,10 @@ for (let i = 1; i <= 5; i++) {
 ```
 
 **What it does:**
+
 - Starts from 1 and runs until 5
 - Prints:
+
 ```
 Hello, number 1
 Hello, number 2
@@ -46,6 +47,7 @@ if (age >= 18) {
 ```
 
 **What it does:**
+
 - Checks if age is 18 or more
 - If true → prints: "You are an adult."
 - If false → prints: "You are a minor."
@@ -62,8 +64,8 @@ An array stores **multiple values in one variable**.
 ```javascript
 let fruits = ["apple", "banana", "mango"];
 
-console.log(fruits[0]);        // Access first item: apple
-console.log(fruits.length);    // Get total number of items: 3
+console.log(fruits[0]); // Access first item: apple
+console.log(fruits.length); // Get total number of items: 3
 ```
 
 ---
@@ -100,10 +102,11 @@ function greet(name) {
 }
 
 greet("Alice"); // Hello, Alice!
-greet("Bob");   // Hello, Bob!
+greet("Bob"); // Hello, Bob!
 ```
 
 **What it does:**
+
 - You pass a name into the function
 - It prints a custom message
 
@@ -123,22 +126,21 @@ console.log(repeatWord); // HiHiHi
 ```
 
 **What it does:**
+
 - "Hi" is repeated 3 times to create "HiHiHi"
 
 ---
 
 ## ✅ Summary Table
 
-| Concept   | What It Does             | Example                          |
-|-----------|--------------------------|----------------------------------|
-| `for` loop | Repeats code             | `for (let i = 1; i <= 5; i++)`   |
-| `if` / `else` | Makes decisions       | `if (age >= 18)`                 |
-| Arrays    | Store lists of values    | `let fruits = ["apple", "banana"]` |
-| `push()`  | Add to end of array      | `colors.push("green")`           |
-| `unshift()` | Add to beginning       | `colors.unshift("yellow")`       |
-| Functions | Reuse code with inputs   | `function greet(name) { ... }`   |
-| `repeat()`| Repeat strings           | `"Hi".repeat(3)`                 |
+| Concept       | What It Does           | Example                            |
+| ------------- | ---------------------- | ---------------------------------- |
+| `for` loop    | Repeats code           | `for (let i = 1; i <= 5; i++)`     |
+| `if` / `else` | Makes decisions        | `if (age >= 18)`                   |
+| Arrays        | Store lists of values  | `let fruits = ["apple", "banana"]` |
+| `push()`      | Add to end of array    | `colors.push("green")`             |
+| `unshift()`   | Add to beginning       | `colors.unshift("yellow")`         |
+| Functions     | Reuse code with inputs | `function greet(name) { ... }`     |
+| `repeat()`    | Repeat strings         | `"Hi".repeat(3)`                   |
 
 ---
-
-**End of JavaScript Part 01 Summary** ✨📜
