@@ -1,6 +1,6 @@
 ## ✅ What's Included
 
-### 01_JavaScript_Part_01:
+### JavaScript_Part_01:
 
 - 🔁 **Loops** – Repeating actions using `for` loops
 - 🧠 **Conditionals** – Making decisions with `if` / `else`
@@ -9,7 +9,7 @@
 - 🧩 **Functions** – Writing reusable code blocks
 - 🔤 **String Methods** – Using `.repeat()` to repeat text
 
-### 01_JavaScript_Part_02:
+### JavaScript_Part_02:
 
 - 🎨 **DOM Manipulation** – Access and update HTML using `getElementById`, `innerText`, `innerHTML`, and `style.display`
 - 🖱️ **Event Handling** – Respond to user actions using `onclick` and custom functions
