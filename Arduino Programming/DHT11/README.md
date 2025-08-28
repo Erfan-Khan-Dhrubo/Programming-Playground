@@ -50,3 +50,7 @@ The code uses the [`DHT`](https://github.com/adafruit/DHT-sensor-library) librar
 2. Upload the code from this repository to your Arduino board.
 
 3. Open **Serial Monitor** (9600 baud) to see the readings.
+
+## 🔍 Visual Overview
+
+ <img src="media/picture_1.jpg" width="570" />
