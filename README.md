@@ -50,6 +50,20 @@ Each topic includes:
 - `.md` file — explanation and theory
 - PDFs (inside `Verilog Concepts`) — printable summaries
 
+### ✅ Arduino Projects
+This folder contains all the projects I’ve completed in **Arduino (Summer 2025 Computer Interface course)**, organized by project:
+
+| Project                     | Contents                                      |
+|------------------------------|-----------------------------------------------|
+| DHT11 Sensor                 | Temperature & humidity readings               |
+| MPU6050 Fall Detection       | Accelerometer-based fall detection with buzzer |
+| RTC DS3231 Alarm             | Real-time clock alarm with buzzer            |
+| MAX30102 Heart & SpO₂ Monitor| Heart rate & SpO₂ measurement with buzzer alert |
+
+Each project includes:
+- `.ino` file — working Arduino code  
+- `.fzz` file — Fritzing circuit design  
+
 ---
 
 
