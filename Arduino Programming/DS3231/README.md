@@ -50,4 +50,4 @@ When a fall is detected, a **buzzer alarm** is activated for **1 minute**.
 
 ## 🔍 Visual Overview
 
- <img src="media/picture_1.jpg" />
+ <img src="media/picture_1.jpg" height="570" />
