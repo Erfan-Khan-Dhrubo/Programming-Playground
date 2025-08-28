@@ -50,7 +50,7 @@ Each topic includes:
 - `.md` file — explanation and theory
 - PDFs (inside `Verilog Concepts`) — printable summaries
 
-### ✅ Arduino Projects
+### ✅ Arduino Programming
 This folder contains all the projects I’ve completed in **Arduino (Summer 2025 Computer Interface course)**, organized by project:
 
 | Project                     | Contents                                      |
